@@ -1,5 +1,7 @@
 # Paste App
 
+[Visit the Paste App](https://paste-app-neon-iota.vercel.app/)
+
 ## Overview
 Paste App is a modern, user-friendly application built using React. The primary objective of this project is to provide a seamless platform for users to store, share, and manage snippets of text or code efficiently. With its clean UI and robust features, Paste App aims to simplify the process of handling textual data for developers, writers, and everyday users.
 
